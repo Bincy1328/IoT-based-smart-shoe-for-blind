@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For UbidotsXLR8
+####################################### 
+# Class
+#######################################
+Ubidots	KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+initialize	KEYWORD2
+setDeviceName	KEYWORD2
+setDeviceLabel	KEYWORD2
+getValue	KEYWORD2
+getValueWithDeviceLabel	KEYWORD2
+add	KEYWORD2
+add	KEYWORD2
+add	KEYWORD2
+sendValue	KEYWORD2
+sendAll	KEYWORD2
+wifiConnection	KEYWORD2
+
+#######################################
+# Constants
+#######################################
